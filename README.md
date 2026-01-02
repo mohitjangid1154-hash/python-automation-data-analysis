@@ -31,8 +31,8 @@ B.Tech AI & Data Science (1st Year)
 Freelance Python Developer
 
 ## 🔹 Contact
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- **Fiverr:** https://www.fiverr.com/YOUR-FIVERR-USERNAME
+- **LinkedIn:** https://www.linkedin.com/posts/mohit-jangid-694661398_mohitjangid8925-i-will-write-python-scripts-activity-7412752131876851713-cyvD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGGg-JABX_6w2lR0HT396g_mI1A5Tsi1grY
+- **Fiverr:** -https://lnkd.in/gcC5VXxp
 
 For automation or data-related tasks, feel free to connect.
 
